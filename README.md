@@ -10,3 +10,6 @@
 
 4. `npm start`
 
+## Demo 
+[Demo app](https://admirhusic.github.io/zadatak/)
+
