@@ -53,6 +53,7 @@ const ScrollToTopButton = styled.button`
   outline: none;
   border: none;
   border-radius: 3px;
+  cursor: pointer;
   
 
 `;
@@ -62,11 +63,11 @@ const App = () => {
   //const imagesWrapper = useRef<HTMLHeadingElement>(null);
  
 
-  let [imageWidth, setImageWidth] = useState(250);
-  let [imageHeight, setImageHeight] = useState(250);
-  let [blurAmount, setBlurAmount] = useState(0);
-  let [grayScale, setGrayScale] = useState("false");
-  let [images, setImages] = useState([]);
+  let [imageWidth, setImageWidth] = useState<any>(250);
+  let [imageHeight, setImageHeight] = useState<any>(250);
+  let [blurAmount, setBlurAmount] = useState<any>(0);
+  let [grayScale, setGrayScale] = useState<any>("false");
+  let [images, setImages] = useState<any>([]);
   let [loading, setLoading] = useState(false);
   let [page, setPage] = useState(1);
   let [isFetching, setIsFetching] = useState(false);
