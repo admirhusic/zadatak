@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zadatak/static/css/main.a9ae4258.chunk.css",
+    "main.js": "/zadatak/static/js/main.bb72249f.chunk.js",
+    "main.js.map": "/zadatak/static/js/main.bb72249f.chunk.js.map",
+    "runtime-main.js": "/zadatak/static/js/runtime-main.6bcda8fa.js",
+    "runtime-main.js.map": "/zadatak/static/js/runtime-main.6bcda8fa.js.map",
+    "static/js/2.12186530.chunk.js": "/zadatak/static/js/2.12186530.chunk.js",
+    "static/js/2.12186530.chunk.js.map": "/zadatak/static/js/2.12186530.chunk.js.map",
+    "static/js/3.d8e61cdc.chunk.js": "/zadatak/static/js/3.d8e61cdc.chunk.js",
+    "static/js/3.d8e61cdc.chunk.js.map": "/zadatak/static/js/3.d8e61cdc.chunk.js.map",
+    "index.html": "/zadatak/index.html",
+    "static/css/main.a9ae4258.chunk.css.map": "/zadatak/static/css/main.a9ae4258.chunk.css.map",
+    "static/js/2.12186530.chunk.js.LICENSE.txt": "/zadatak/static/js/2.12186530.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bcda8fa.js",
+    "static/js/2.12186530.chunk.js",
+    "static/css/main.a9ae4258.chunk.css",
+    "static/js/main.bb72249f.chunk.js"
+  ]
+}
